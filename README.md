@@ -15,7 +15,7 @@ A self-maintained C repository
         <li><a href="#installation">Installation</a></li>
       </ul>
       <a href="#License">License</a>
-      <a href="#Contact">License</a>
+      <a href="#Contact">Contact</a>
     </li>
   </ol>
 </details>
