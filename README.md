@@ -28,7 +28,7 @@ This Project is Pretty Straightforward, it contains all the C Programs that I us
 
 I would like to Thank You for visiting this repository, if you find any content in this repo helpful, make sure to share this project for it to reach it's potential audience who can benefit from it. 
 
-![img](https://raw.githubusercontent.com/adi-075/DemonC/master/pictures/01.jpg)
+![img](https://raw.githubusercontent.com/adi-075/DemonC/master/Pictures/01.jpg)
 
 <!-- GETTING STARTED -->
 ## Getting Started
